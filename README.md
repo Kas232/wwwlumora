@@ -17,5 +17,7 @@ It showcases premium products, an interactive cart system, and a functional cont
 - **CSS3** for styling (flexbox, grid, media queries)
 - **JavaScript (ES6)** for interactivity
 - **LocalStorage** for cart persistence
+  ## live Demo
+  kas232.github.io/wwwlumora/
 
 ## 📂 Project Structure
